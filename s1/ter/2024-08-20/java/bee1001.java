@@ -1,28 +1,28 @@
-import java.io.IOException;
-import java.util.Scanner;
+import java.io.ioexception;
+import java.util.scanner;
 
 /**
- * IMPORTANT:
- * O nome da classe deve ser "Main" para que a sua solução execute
- * Class name must be "Main" for your solution to execute
- * El nombre de la clase debe ser "Main" para que su solución ejecutar
+ * important:
+ * o nome da classe deve ser "main" para que a sua solução execute
+ * class name must be "main" for your solution to execute
+ * el nombre de la clase debe ser "main" para que su solución ejecutar
  */
-// public class Main {
+// public class main {
 public class bee1001 {
 
-  public static void main(String[] args) throws IOException {
+  public static void main(string[] args) throws ioexception {
 
-    Scanner input = new Scanner(System.in);
+    scanner input = new scanner(system.in);
 
     int num1;
     int num2;
     int sum;
 
-    num1 = input.nextInt();
-    num2 = input.nextInt();
+    num1 = input.nextint();
+    num2 = input.nextint();
 
     sum = num1 + num2;
-    System.out.printf("X = %s\n", sum);
+    system.out.printf("x = %s\n", sum);
 
   }
 
