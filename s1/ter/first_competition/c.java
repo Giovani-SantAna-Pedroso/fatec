@@ -4,6 +4,7 @@ import java.io.InputStreamReader;
 public class c {
 
   public static void main(String[] args) throws IOException {
+    // WIth for 0.032
     BufferedReader input = new BufferedReader(new InputStreamReader(System.in));
     PrintWriter out = new PrintWriter(System.out);
     int firstN = Integer.parseInt(input.readLine());
