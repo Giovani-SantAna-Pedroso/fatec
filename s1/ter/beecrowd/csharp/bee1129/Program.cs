@@ -25,4 +25,3 @@ while (questionsToAns != 0)
 
   questionsToAns = int.Parse(Console.ReadLine());
 }
-

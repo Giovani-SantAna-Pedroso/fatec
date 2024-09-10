@@ -1,0 +1,15 @@
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/csharp/bee1046/bin/Debug/net8.0/bee1046
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/csharp/bee1046/bin/Debug/net8.0/bee1046.deps.json
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/csharp/bee1046/bin/Debug/net8.0/bee1046.runtimeconfig.json
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/csharp/bee1046/bin/Debug/net8.0/bee1046.dll
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/csharp/bee1046/bin/Debug/net8.0/bee1046.pdb
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/csharp/bee1046/obj/Debug/net8.0/bee1046.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/csharp/bee1046/obj/Debug/net8.0/bee1046.AssemblyInfoInputs.cache
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/csharp/bee1046/obj/Debug/net8.0/bee1046.AssemblyInfo.cs
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/csharp/bee1046/obj/Debug/net8.0/bee1046.csproj.CoreCompileInputs.cache
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/csharp/bee1046/obj/Debug/net8.0/bee1046.sourcelink.json
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/csharp/bee1046/obj/Debug/net8.0/bee1046.dll
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/csharp/bee1046/obj/Debug/net8.0/refint/bee1046.dll
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/csharp/bee1046/obj/Debug/net8.0/bee1046.pdb
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/csharp/bee1046/obj/Debug/net8.0/bee1046.genruntimeconfig.cache
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/csharp/bee1046/obj/Debug/net8.0/ref/bee1046.dll
