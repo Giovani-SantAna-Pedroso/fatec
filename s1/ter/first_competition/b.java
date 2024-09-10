@@ -1,16 +1,22 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.PrintWriter;
 import java.util.Scanner;
 
-/**
- * b
- */
 public class b {
 
-  public static void main(String[] args) {
+  public static void main(String[] args) throws IOException {
+
+    PrintWriter out = new PrintWriter(System.out);
     int numEvens = 0;
-    Scanner input = new Scanner(System.in);
+    BufferedReader input = new BufferedReader(new InputStreamReader(System.in));
+
     for (int i = 0; i < 5; i++) {
-      numEvens += input.nextInt() % 2 == 0 ? 1 : 0;
+      numEvens += Integer.parseInt(input.readLine()) % 2 == 0 ? 1 : 0;
     }
-    System.out.printf("%s valores pares\n", numEvens);
+
+    out.println(String.valueOf(numEvens) + " valores pares");
+    out.flush();
   }
 }

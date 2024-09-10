@@ -1,0 +1,15 @@
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/csharp/bee2962/bin/Debug/net8.0/bee2962
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/csharp/bee2962/bin/Debug/net8.0/bee2962.deps.json
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/csharp/bee2962/bin/Debug/net8.0/bee2962.runtimeconfig.json
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/csharp/bee2962/bin/Debug/net8.0/bee2962.dll
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/csharp/bee2962/bin/Debug/net8.0/bee2962.pdb
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/csharp/bee2962/obj/Debug/net8.0/bee2962.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/csharp/bee2962/obj/Debug/net8.0/bee2962.AssemblyInfoInputs.cache
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/csharp/bee2962/obj/Debug/net8.0/bee2962.AssemblyInfo.cs
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/csharp/bee2962/obj/Debug/net8.0/bee2962.csproj.CoreCompileInputs.cache
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/csharp/bee2962/obj/Debug/net8.0/bee2962.sourcelink.json
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/csharp/bee2962/obj/Debug/net8.0/bee2962.dll
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/csharp/bee2962/obj/Debug/net8.0/refint/bee2962.dll
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/csharp/bee2962/obj/Debug/net8.0/bee2962.pdb
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/csharp/bee2962/obj/Debug/net8.0/bee2962.genruntimeconfig.cache
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/csharp/bee2962/obj/Debug/net8.0/ref/bee2962.dll

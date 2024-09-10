@@ -1,14 +1,14 @@
-import java.util.Scanner;
+import java.io.*;
+import java.io.InputStreamReader;
 
-/**
- * c
- */
 public class c {
 
-  public static void main(String[] args) {
-    Scanner input = new Scanner(System.in);
-    int firstN = input.nextInt();
-    int secondN = input.nextInt();
+  public static void main(String[] args) throws IOException {
+    // WIth for 0.032
+    BufferedReader input = new BufferedReader(new InputStreamReader(System.in));
+    PrintWriter out = new PrintWriter(System.out);
+    int firstN = Integer.parseInt(input.readLine());
+    int secondN = Integer.parseInt(input.readLine());
     int tmp = 0;
 
     // put the values in order
@@ -21,10 +21,10 @@ public class c {
     int sumOfOdds = 0;
 
     for (int i = firstN + 1; i < secondN; i++) {
-      System.out.println(sumOfOdds);
       sumOfOdds += i % 2 == 0 ? 0 : i;
     }
 
-    System.out.println(sumOfOdds);
+    out.println(sumOfOdds);
+    out.flush();
   }
 }
