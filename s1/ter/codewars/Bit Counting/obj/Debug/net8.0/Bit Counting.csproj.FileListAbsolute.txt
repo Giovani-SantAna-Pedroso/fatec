@@ -1,0 +1,15 @@
+/mnt/hd-to-use/codes/college/fatec/s1/ter/codewars/Bit Counting/obj/Debug/net8.0/Bit Counting.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/hd-to-use/codes/college/fatec/s1/ter/codewars/Bit Counting/obj/Debug/net8.0/Bit Counting.AssemblyInfoInputs.cache
+/mnt/hd-to-use/codes/college/fatec/s1/ter/codewars/Bit Counting/obj/Debug/net8.0/Bit Counting.AssemblyInfo.cs
+/mnt/hd-to-use/codes/college/fatec/s1/ter/codewars/Bit Counting/obj/Debug/net8.0/Bit Counting.csproj.CoreCompileInputs.cache
+/mnt/hd-to-use/codes/college/fatec/s1/ter/codewars/Bit Counting/obj/Debug/net8.0/Bit Counting.sourcelink.json
+/mnt/hd-to-use/codes/college/fatec/s1/ter/codewars/Bit Counting/bin/Debug/net8.0/Bit Counting
+/mnt/hd-to-use/codes/college/fatec/s1/ter/codewars/Bit Counting/bin/Debug/net8.0/Bit Counting.deps.json
+/mnt/hd-to-use/codes/college/fatec/s1/ter/codewars/Bit Counting/bin/Debug/net8.0/Bit Counting.runtimeconfig.json
+/mnt/hd-to-use/codes/college/fatec/s1/ter/codewars/Bit Counting/bin/Debug/net8.0/Bit Counting.dll
+/mnt/hd-to-use/codes/college/fatec/s1/ter/codewars/Bit Counting/bin/Debug/net8.0/Bit Counting.pdb
+/mnt/hd-to-use/codes/college/fatec/s1/ter/codewars/Bit Counting/obj/Debug/net8.0/Bit Counting.dll
+/mnt/hd-to-use/codes/college/fatec/s1/ter/codewars/Bit Counting/obj/Debug/net8.0/refint/Bit Counting.dll
+/mnt/hd-to-use/codes/college/fatec/s1/ter/codewars/Bit Counting/obj/Debug/net8.0/Bit Counting.pdb
+/mnt/hd-to-use/codes/college/fatec/s1/ter/codewars/Bit Counting/obj/Debug/net8.0/Bit Counting.genruntimeconfig.cache
+/mnt/hd-to-use/codes/college/fatec/s1/ter/codewars/Bit Counting/obj/Debug/net8.0/ref/Bit Counting.dll

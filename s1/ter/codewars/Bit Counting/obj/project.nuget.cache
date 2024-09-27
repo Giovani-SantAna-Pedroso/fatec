@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KePxfvxoB5YkMRTnAg/0O1pHHQSC3KqfKuRjFeb/AtWhx+yTpjhnPRqxs+MUJLkLPIptBTDwAJKtH5m1KoW/VQ==",
+  "success": true,
+  "projectFilePath": "/mnt/hd-to-use/codes/college/fatec/s1/ter/codewars/Bit Counting/Bit Counting.csproj",
+  "expectedPackageFiles": [
+    "/home/giovanisfpv/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

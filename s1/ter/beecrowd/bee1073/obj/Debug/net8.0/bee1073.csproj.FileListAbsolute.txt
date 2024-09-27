@@ -1,0 +1,15 @@
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/bee1073/bin/Debug/net8.0/bee1073
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/bee1073/bin/Debug/net8.0/bee1073.deps.json
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/bee1073/bin/Debug/net8.0/bee1073.runtimeconfig.json
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/bee1073/bin/Debug/net8.0/bee1073.dll
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/bee1073/bin/Debug/net8.0/bee1073.pdb
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/bee1073/obj/Debug/net8.0/bee1073.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/bee1073/obj/Debug/net8.0/bee1073.AssemblyInfoInputs.cache
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/bee1073/obj/Debug/net8.0/bee1073.AssemblyInfo.cs
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/bee1073/obj/Debug/net8.0/bee1073.csproj.CoreCompileInputs.cache
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/bee1073/obj/Debug/net8.0/bee1073.sourcelink.json
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/bee1073/obj/Debug/net8.0/bee1073.dll
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/bee1073/obj/Debug/net8.0/refint/bee1073.dll
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/bee1073/obj/Debug/net8.0/bee1073.pdb
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/bee1073/obj/Debug/net8.0/bee1073.genruntimeconfig.cache
+/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/bee1073/obj/Debug/net8.0/ref/bee1073.dll
