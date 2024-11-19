@@ -27,8 +27,10 @@ public class Main {
 
     else if (a == b && b < c)
       System.out.println(":)");
+
     else if (a == b && b > c)
       System.out.println(":(");
+
     else
       System.out.println(":(");
   }
