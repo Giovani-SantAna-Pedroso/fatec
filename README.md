@@ -1,2 +1,0 @@
-# fatec
-# fatec
