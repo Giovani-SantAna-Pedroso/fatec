@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MSLomenLkPNKBt2ZzFJu5fBEdlMc1A5NR3SVkNM9MFlTVWN9yGjmk+rzbosVI1FyBtt3zMA2WaKEQH+FXJxexQ==",
+  "success": true,
+  "projectFilePath": "/mnt/hd-to-use/codes/college/fatec/s1/ter/beecrowd/csharp/bee1006/bee1006.csproj",
+  "expectedPackageFiles": [
+    "/home/giovanisfpv/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
